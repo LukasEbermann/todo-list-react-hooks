@@ -1,5 +1,5 @@
 env:
-  DOCKER_NAME: flo/react-todo
+  DOCKER_NAME: lukas/react-todo
 
 name: GitHub Actions Demo
 run-name: Testing github actions
